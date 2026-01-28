@@ -28,7 +28,7 @@ const ContactSection = () => (
                 href="mailto:info@aditirtopratama.com" 
                 className="text-blue-500 hover:text-blue-700 transition duration-300"
               >
-                info@aditirtopratama.com
+                pt.aditirtopratama24@gmail.com
               </a>
             </div>
           </div>
